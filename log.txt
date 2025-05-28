@@ -1,0 +1,57 @@
+VRT: BUY EXECUTED @ 84.95, TOTAL: 6210.44
+VRT: RSI: 29.24, MACD: -4.66, VWAP: 91.90, stock_k & stoch_d: 12.34 & 12.43, Pricentile: 0.29, Mktcap: 33553.98
+VRT: Total weight: 62.15, Date: 02/25/2025 15:30:00
+VRT: SELL EXECUTED @ 89.75, TOTAL: 6560.99
+VRT: Profit: 350.55
+VRT: RSI: 36.70, MACD: -4.13, VWAP: 90.72, stock_k & stoch_d: 38.57 & 28.85, Pricentile: 0.31, Mktcap: 34442.14
+VRT: Total weight: 100.00, Date: 02/25/2025 18:30:00
+MSTR: BUY EXECUTED @ 245.01, TOTAL: 10344.85
+MSTR: RSI: 29.10, MACD: -18.43, VWAP: 267.14, stock_k & stoch_d: 9.18 & 5.90, Pricentile: 0.40, Mktcap: 61895.73
+MSTR: Total weight: 149.62, Date: 02/25/2025 19:30:00
+MSTR: SELL EXECUTED @ 250.81, TOTAL: 10589.74
+MSTR: Profit: 244.89
+MSTR: RSI: 32.15, MACD: -17.40, VWAP: 257.07, stock_k & stoch_d: 15.41 & 14.12, Pricentile: 0.39, Mktcap: 61622.43
+MSTR: Total weight: 100.00, Date: 02/26/2025 15:30:00
+QBTS: BUY EXECUTED @ 4.72, TOTAL: 10584.22
+QBTS: RSI: 27.05, MACD: -0.34, VWAP: 5.17, stock_k & stoch_d: 16.91 & 10.22, Pricentile: 0.37, Mktcap: 1364.59
+QBTS: Total weight: 235.48, Date: 03/04/2025 15:30:00
+QBTS: SELL EXECUTED @ 5.22, TOTAL: 11716.65
+QBTS: Profit: 1132.42
+QBTS: RSI: 48.89, MACD: -0.24, VWAP: 5.15, stock_k & stoch_d: 61.32 & 45.74, Pricentile: 0.44, Mktcap: 1554.26
+QBTS: Total weight: 100.00, Date: 03/04/2025 18:30:00
+QBTS: BUY EXECUTED @ 5.38, TOTAL: 11598.39
+QBTS: RSI: 46.77, MACD: -0.18, VWAP: 5.14, stock_k & stoch_d: 70.84 & 66.89, Pricentile: 0.43, Mktcap: 1531.21
+QBTS: Total weight: 181.05, Date: 03/04/2025 20:29:59
+QBTS: SELL EXECUTED @ 5.41, TOTAL: 11670.25
+QBTS: Profit: 71.86
+QBTS: RSI: 48.71, MACD: -0.11, VWAP: 5.07, stock_k & stoch_d: 86.95 & 79.59, Pricentile: 0.43, Mktcap: 1545.92
+QBTS: Total weight: 100.00, Date: 03/05/2025 17:29:59
+MYNZ: BUY EXECUTED @ 5.25, TOTAL: 11666.39
+MYNZ: RSI: 50.17, MACD: -0.01, VWAP: 5.19, stock_k & stoch_d: 69.36 & 72.99, Pricentile: 0.63, Mktcap: 11.69
+MYNZ: Total weight: 120.98, Date: 03/06/2025 17:29:59
+DJT: BUY EXECUTED @ 21.91, TOTAL: 111.58
+DJT: RSI: 39.92, MACD: -0.45, VWAP: 22.25, stock_k & stoch_d: 18.93 & 10.56, Pricentile: 0.15, Mktcap: 4844.66
+DJT: Total weight: 111.25, Date: 03/06/2025 20:29:59
+MYNZ: SELL EXECUTED @ 5.37, TOTAL: 11933.05
+MYNZ: Profit: 266.66
+MYNZ: RSI: 56.65, MACD: 0.03, VWAP: 5.33, stock_k & stoch_d: 79.17 & 74.16, Pricentile: 0.66, Mktcap: 12.07
+MYNZ: Total weight: -18.91, Date: 03/07/2025 14:29:59
+SRPT: BUY EXECUTED @ 81.00, TOTAL: 8071.14
+SRPT: RSI: 16.02, MACD: -2.61, VWAP: 83.31, stock_k & stoch_d: 34.11 & 56.11, Pricentile: 0.06, Mktcap: 7646.14
+SRPT: Total weight: 66.83, Date: 03/18/2025 14:29:59
+DJT: SELL EXECUTED @ 21.91, TOTAL: 111.60
+DJT: Profit: 0.03
+DJT: RSI: 66.16, MACD: 0.26, VWAP: 21.02, stock_k & stoch_d: 83.10 & 65.21, Pricentile: 0.14, Mktcap: 4746.86
+DJT: Total weight: 30.94, Date: 03/19/2025 15:30:00
+MIST: BUY EXECUTED @ 0.87, TOTAL: 3994.39
+MIST: RSI: 20.89, MACD: -0.12, VWAP: 1.28, stock_k & stoch_d: 30.59 & 58.45, Pricentile: 0.07, Mktcap: 47.75
+MIST: Total weight: 2460.40, Date: 03/28/2025 14:29:59
+MIST: SELL EXECUTED @ 0.89, TOTAL: 4088.51
+MIST: Profit: 94.12
+MIST: RSI: 22.79, MACD: -0.26, VWAP: 1.16, stock_k & stoch_d: 9.71 & 9.18, Pricentile: 0.09, Mktcap: 49.26
+MIST: Total weight: 100.00, Date: 03/28/2025 17:29:59
+MIST: BUY EXECUTED @ 0.92, TOTAL: 4088.46
+MIST: RSI: 22.29, MACD: -0.29, VWAP: 1.14, stock_k & stoch_d: 9.39 & 9.41, Pricentile: 0.07, Mktcap: 47.49
+MIST: Total weight: 1849.14, Date: 03/28/2025 18:30:00
+SRPT: Profit: -1061.21
+MIST: Profit: -191.74
