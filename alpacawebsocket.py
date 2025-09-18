@@ -20,8 +20,8 @@ from websocket_constants import exchange_codes, trade_conditions_cts, trade_cond
 ALPACA_API_KEY = ''
 ALPACA_SECRET_KEY = ''
 
-ALPACA_PAPER_KEY = 'PK0DGC1RTGBVCT160OY9'
-ALPACA_PAPER_SECRET = 'cOdhLakEXgS6N0FG2CQbSGoMCC32e45A95jfwmd0'
+ALPACA_PAPER_KEY = ''
+ALPACA_PAPER_SECRET = ''
 ALPACA_PAPER = True #Set to false for live trading
 
 alpaca = None
