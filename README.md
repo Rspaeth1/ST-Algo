@@ -8,6 +8,7 @@ With the foundation I have on that, I think development of this project will be 
 ## Methodology
 
 - Trade momentum on trending tickers based on sentiment from stock messaging boards (StockTwits)
+- Analyze best entry opportunities based on trending status, market cap, etc.; Discern material vs. non-material events (eg. news pump vs unexpected strong earnings)
 - Download historical data and backtest strategies (I started taking note of trending tickers that had exceptional growth for a little while)
 - Use machine learning to optimize trading strategy weights
 - Connect to live brokerage for paper trading
