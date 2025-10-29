@@ -19,3 +19,5 @@ With the foundation I have on that, I think development of this project will be 
 - Pandas, Numpy
 - Backtester (although admittedly not implemented very well)
 - PyTorch
+- BeautifulSoup, Selenium for scraping
+- Alpaca-py for live trading
